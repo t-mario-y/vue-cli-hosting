@@ -1,4 +1,4 @@
-# vue-cli-hosting
+# vue-cli-hosting-express
 vue-cliの成果物をホスティングするexpressサーバ
 
 ### expressサーバ作成
